@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website contents
 
-This is the iphone bullshit.
-
-Drinking vinegar bullshit.
+1. index.html
